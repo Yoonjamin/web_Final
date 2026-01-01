@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>쉽게 배우는 AI 활용 콘텐츠 제작 기말과제</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>웹콘텐츠 기말과제</h1>
+
+  <p>쉽게 배우는 AI 활용 콘텐츠 제작 수업 기말과제 제출용 페이지입니다.</p>
+  <p>항공서비스과 2025101866 윤자민입니다.</p>
+  <p>새해 복 많이 받으세요!</p>
+
+  <button onclick="showMessage()">클릭하기</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
